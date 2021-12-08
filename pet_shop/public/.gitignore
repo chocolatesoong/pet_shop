@@ -1,0 +1,11 @@
+#---------------
+#Uploaded Images File
+#---------------
+product-images/*
+!product-images/_
+slider-images/*
+!slider-images/_
+feature-images/*
+!feature-images/_
+
+!.gitignore
